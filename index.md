@@ -13,7 +13,7 @@ These pages will further show my projects
 
 ### [Other school projects](./OtherSchoolProjects.md)
 
-### [Contact](https://rickvandijk1.github.io/PortFolio/Contact)
+### [Contact](./Contact.md)
 
 
 
