@@ -7,7 +7,7 @@ These pages will further show my projects
 
 ### [PhD](./PhD.md)
 
-### [Career](https://rickvandijk1.github.io/PortFolio/Career)
+### [Career](./Career.md)
 
 ### [Masters](./Masters.md)
 
