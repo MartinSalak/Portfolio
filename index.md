@@ -14,7 +14,7 @@ While studying I worked as a junior structural engineer for two years. Then, in 
 In my personal life I like to hike and generally be in nature. This passion comes from my boyscout years. I started as a kid and until recently I helped to lead the group. Now I only visit the summer camp deep in the forest. I like sports, namely volleyball, fotball and skiing and I am a keen Magic the Gathering player. But the majority of my personal time I spend with my family.
 
 
-# Projects
+## Projects
 Look here for more:
 
 ### [PhD](./PhD.md)
