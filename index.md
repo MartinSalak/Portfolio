@@ -1,17 +1,17 @@
 ## Welcome 
-My name is Martin Salak. I am a PhD student at Faculty of Civil Engineering at Czech Technical University in Prague. I give half of my working time to school and half to a job and I enjoy both.
+Greetings, my name is Martin Salak, and I am a doctoral candidate at the Faculty of Civil Engineering within the Czech Technical University in Prague. As part of my academic pursuits, I dedicate half of my time to furthering my studies, while the other half is spent in professional practice. Welcome to my website, where I aim to showcase my work and accomplishments.
 
-
+ 
 ## Me
-_I am a structural engineer who would like to contribute to the development of our way of working. I enjoy structural enginneering - from working with cement with my own hands to coding in Python_
+_As a structural engineer, I am passionate about advancing our industry's practices and processes. From hands-on work with cement to coding in Python._
 
-Growing up in Prague I had lot of beatuiful architecture around me which I loved, but I found out that not only the old buidling interest me. I also wanted to see the Chrisler Building in New York and Forth Bridge in Scotland. This led me to Structural Engineering which I am happy I chose.
+Growing up in Prague, I was surrounded by beautiful architecture that sparked my interest in the field. However, as I began to explore more diverse styles and structures, such as the Chrysler Building in New York and the Forth Bridge in Scotland (which used to be my favourite structures as a kid), my fascination with Structural Engineering grew.
 
-At university I was lucky to do my yearly projects under the group lead by professor Stemberk, where students are granted lot of freedom. This helped me to find projects which helped me to learn as well as have fun while doing it. For my master thesis I created a concrete model of a bridge, described [here](./Masters.md). In 2020 I started my PhD studuies under supervision of prof. Stemberk, for more information what I am working on you cana have a look on [PhD](./PhD.md) page.
+During my university years, I was fortunate to be part of Professor Stemberk's group, where I had the freedom to pursue projects that both challenged and excited me. For my master's thesis, I designed a concrete bridge model, which is described in more detail on my [Masters page](Masters.md). Currently, I am pursuing my PhD under Professor Stemberk's guidance, and my research interests are outlined on my [PhD page](PhD.md).
 
-While studying I worked as a junior structural engineer for two years. Then, in 2021 I started in SCIA as Functuional Analyst helping developing software for structural Engineers.
+As a junior structural engineer, I gained valuable experience for two years before joining SCIA in 2021 as a Functional Analyst. In this role, I help develop software that benefits Structural Engineers.
 
-In my personal life I like to hike and generally be in nature. This passion comes from my boyscout years. I started as a kid and until recently I helped to lead the group. Now I only visit the summer camp deep in the forest. I like sports, namely volleyball, fotball and skiing and I am a keen Magic the Gathering player. But the majority of my personal time I spend with my family.
+Outside of work, I have a passion for hiking and spending time in nature, which stems from my years as a Boy Scout. I also enjoy playing sports, including volleyball, football, and skiing, and I am an avid Magic the Gathering player. Above all, I cherish spending time with my family.
 
 
 ## Projects
