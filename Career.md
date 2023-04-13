@@ -8,7 +8,6 @@ At SCIA, I worked as a Functional Analyst on the development of [SCIA Autoconver
 Through this experience, I was introduced to agile software development, and thanks to great leaders, I learned a lot.
 
 <br>
-<br>
 
 ### Junior Structural Engineer at Statický Servis
 _2019 - 2021_
