@@ -9,7 +9,7 @@ Through this experience, I was introduced to agile software development, and tha
 
 <br>
 
-### Junior Structural Engineer at Statický Servis
+### Structural Engineer at Statický Servis
 _2019 - 2021_
 
 As a Junior Structural Engineer at Statický Servis, I was responsible for creating detailed drawings of concrete and masonry structures of all scales. In addition, I prepared 3D analytical models and conducted minor calculations. Check out [Statický servis website](http://www.statservis.cz/).
