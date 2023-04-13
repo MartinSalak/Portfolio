@@ -2,20 +2,19 @@
 
 I created an origami-inspired concrete bridge model which I took to an International competition of bridges.
 
-The whole process was done from sratch. First, inital design was alaborated:
+The whole process was done from scratch. First, initial design was elaborated:
 
 
 <img src='./assets/img/firstDesigns.png' width='250'>
 
-Unitl final shape of the bridge was found:
+Until final shape of the bridge was found. The Circular arch is created from repeated pattern of triangles.
 
 <img src='./assets/img/bridgeShapeRender.jpg' width='250'>
 
+The work then focused on the strength the origami shape provides to it. In the picture below, you can see a difference in deflection for two bridges of the same weight, one with origami-like folds and the other flat. The deflection of the bridge with folds turned out to be 7x smaller.
 
-![](./assets/img/bridgeShapeRender.jpg' | width=100)
+<img src='./assets/img/deflection.png' width='250'>
 
-or
 
-![](./assets/img/bridgeShapeRender.jpg' | width=100.px)
 
-![](./assets/img/ja.jpg | width=50)
+
