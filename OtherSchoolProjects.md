@@ -3,7 +3,7 @@ This project takes a very simple building of 5 floors and applies on it the famo
 
 <img src='./assets/img/dynamics1.gif' width='350'>
 
-<img src='./assets/img/convergence.png' width='350'>
+<img src='./assets/img/Convergence.png' width='350'>
 
 <br>
 
