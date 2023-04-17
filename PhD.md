@@ -1,7 +1,7 @@
 # PhD
 _2019 - now_
 
-In 2019, I was granted admission to pursue a Doctor of Philosophy degree program under the guidance of Professor Stemberk at the Czech Technical University in Prague. My research focuses on exploring the implementation of knitted formwork in the production of thin concrete shells.
+In 2019, I was granted admission to pursue a PhD degree program under the guidance of Professor Stemberk at the Czech Technical University in Prague. My research focuses on exploring the implementation of knitted formwork in the production of thin concrete shells.
 
 <img src='phd-knitting-mashine-closeup.jpg' width='350'>
 
