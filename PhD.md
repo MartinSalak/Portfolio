@@ -10,3 +10,5 @@ In 2019, I was granted admission to pursue a Doctor of Philosophy degree program
 <img src='./assets/img/phd-nonflat finished.jpeg' width='350'>
 
 <img src='./assets/img/phd-knitted hyppar.jpeg' width='350'>
+
+[Go back](index.md)
