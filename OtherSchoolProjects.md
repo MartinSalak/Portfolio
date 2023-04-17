@@ -1,5 +1,5 @@
 ## Dynamics - Response of basic structure to earthquake
-This project takes a very simple building of 5 floors and applies on it the famous El Centro earthquake of magnitude 6.9 from the year 1940. The response of the building was calculated and stability of the numerical calculation was tested. You can see the code [here]().
+This project takes a very simple building of 5 floors and applies on it the famous El Centro earthquake of magnitude 6.9 from the year 1940. The response of the building was calculated and stability of the numerical calculation was tested. You can see the code [here](./assets/dynamics_with_animation.py).
 
 <img src='./assets/img/dynamics1.gif' width='350'>
 
