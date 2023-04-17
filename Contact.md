@@ -7,6 +7,6 @@ Here you can find me on LinkedIn, or check my CV:
 
 ### [LinkedIn](https://www.linkedin.com/in/martin-salak-6726681a3/)
 
-### [CV](https://github.com/)
+### [CV](./assets/cv_martinsalak.pdf)
 
 [Go back](index.md)
