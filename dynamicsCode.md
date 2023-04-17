@@ -177,3 +177,5 @@ writer = Writer(fps=50, metadata=dict(artist='Me'), bitrate=1800)
 # ani.save('finaloutput.mp4', writer=writer)
 
 ```
+
+[El Centro txt file](./assets/ElCentro.txt)
