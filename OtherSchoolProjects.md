@@ -2,7 +2,7 @@
 This project takes a very simple building of 5 floors and applies on it the famous El Centro earthquake of magnitude 6.9 from the year 1940. The response of the building was calculated and stability of the numerical calculation was tested. You can see the code [here](./dynamicsCode.md).
 
 <img src='./assets/img/dynamics1.gif' width='500'>
-
+<img src='./assets/img/convergence2.png' width='500' >
 <br>
 
 ## Heat Transfer - Temperature in a wall over time
