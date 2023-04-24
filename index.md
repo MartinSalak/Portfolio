@@ -7,7 +7,7 @@ _As a structural engineer, I am passionate about advancing our industry's practi
 
 Growing up in Prague, I was surrounded by beautiful architecture that sparked my interest in the field. However, as I began to explore more diverse styles and structures, such as the Chrysler Building in New York and the Forth Bridge in Scotland (which used to be my favourite structures as a kid), my fascination with Structural Engineering grew.
 
-During my university years, I was fortunate to be part of Professor Stemberk's group, where I had the freedom to pursue projects that both challenged and excited me. For my master's thesis, I designed a concrete bridge model, which is described in more detail on my [Masters page](Masters.md). Currently, I am pursuing my PhD under Professor Stemberk's guidance, and my research interests are outlined on my [PhD page](PhD.md).
+During my university years, I was fortunate to be part of Professor Stemberk's group, where I had the freedom to pursue projects that both challenged and excited me. For my master's thesis, I designed a concrete bridge model, which is described in more detail on my [master's page](Masters.md). Currently, I am pursuing my PhD under Professor Stemberk's guidance, and my research interests are outlined on my [PhD page](PhD.md).
 
 As a junior structural engineer, I gained valuable experience for two years before joining SCIA in 2021 as a Functional Analyst. In this role, I help develop software that benefits Structural Engineers.
 
@@ -21,7 +21,7 @@ Look here for more:
 
 ### [Career](./Career.md)
 
-### [Masters](./Masters.md)
+### [Master's](./Masters.md)
 
 ### [Other school projects](./OtherSchoolProjects.md)
 
