@@ -5,7 +5,7 @@ _2021 - 2023_
 
 At SCIA, I worked as a Functional Analyst on the development of [SCIA Autoconverter](https://www.scia.net/en/scia-autoconverter). My role involved creating detailed descriptions of future development for software engineers, testing, bug assessment, and documentation management. Our team was also responsible for an open-source format for analytical models called [SAF](saf.guide), and I maintained the documentation and created proposals for future development using git.
 
-Through this experience, I was introduced to agile software development, and thanks to great leaders, I learned a lot.
+Through this experience, I was introduced to agile software development and working in a remote world-wide team.
 
 <br>
 
